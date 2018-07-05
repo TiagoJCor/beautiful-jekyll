@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Grew up in Portugal near the beautiful city of Lisbon. Earned a B.S. in Physics and Mathematics from Bates College in Lewiston, Maine, graduating *summa cum laude* in May 2017. Moved to New York City to enroll in Columbia University's PhD-track program in Applied Mathematics at the Fu Foundation School of Engineering and Applied Science.
