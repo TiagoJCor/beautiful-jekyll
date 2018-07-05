@@ -8,3 +8,6 @@ Grew up in Portugal near the beautiful city of Lisbon. Earned a B.S. in Physics 
 
 ![Heidelberg University seal](/img/heidelberg_uni.png) <!-- .element height="50%" width="50%" -->
 
+![test image size](/img/heidelberg_uni.png){:class="img-responsive"}
+![test image size](/img/heidelberg_uni.png){:height="50%" width="50%"}
+![test image size](/img/heidelberg_uni.png){:height="700px" width="400px"}
