@@ -30,15 +30,7 @@ ___
 
 2
 
-<div style="float:left"><img src="/img/heidelberg_uni.png" width="240" height="120"></div>
-<div style="float:right">DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015)</div>
-<div style="clear:both"/>
-
-___ 
-
-3
-
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 600px; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
+    <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
     <div style="margin-left: 620px;"> DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015) </div>
 </div>
