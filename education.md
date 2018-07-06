@@ -15,7 +15,7 @@ ___
 <p> </p>
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
+    <div style="width: 30%; float: left;"> <img src="/img/argonne_lab.png" width="240" height="120"> </div>
     <div style="margin-left: 270px;"> <b>Argonne National Laboratory </b> <br /> <i>NSF-MSGI Intern</i>, Mathematics and Computer Science Division <br /> Lemont, IL <br />June-August 2018 </div>
 </div>
 
