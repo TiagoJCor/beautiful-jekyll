@@ -22,7 +22,7 @@ ___
 <p> </p>
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
+    <div style="width: 30%; float: left;"> <img src="/img/bates_logo.png" width="240" height="120"> </div>
     <div style="margin-left: 270px;"> <b>Bates College </b> <br /> <i>Sherman Fairchild Fellow</i>, Lundblad Lab for Ultracold Atomic Physics <br /> Lewiston, ME <br />June-August 2016 </div>
 </div>
 
