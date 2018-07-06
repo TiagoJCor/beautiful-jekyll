@@ -19,7 +19,7 @@ ___
 
 ___ 
 
-<p style="width: width="130" height="130">
-<img src="/img/heidelberg_uni.png" style="float: left;" />
+<p style="width: 500px;">
+<img src="/img/heidelberg_uni.png" width="240" height="120" style="float: left;" />
 This is some text
 </p> 
