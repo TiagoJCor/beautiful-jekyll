@@ -21,5 +21,9 @@ ___
 
 <p style="width: 500px;">
 <img src="/img/heidelberg_uni.png" width="240" height="120" style="float: left;" />
-This is some text
+DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015)
 </p> 
+
+<div style="float:left"></img/heidelberg_uni.png></div>
+<div style="float:right">DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015)</div>
+<div style="clear:both"/>
