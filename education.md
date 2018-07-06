@@ -28,9 +28,17 @@ DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut
 
 ___
 
-2
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
+    <div style="margin-left: 300px;"> <b>Argonne National Laboratory </b> <br /> NSF-MSGI Intern, Mathematics and Computer Science Division <br /> Lemont, IL <br />June-August 2018 </div>
+</div>
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
-    <div style="margin-left: 300px;"> <b>DAAD RISE Summer Intern</b> <br />Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg <br />June-August 2015 </div>
+    <div style="margin-left: 300px;"> <b>Bates College </b> <br /> Sherman Fairchild Fellow, Lundblad Lab for Ultracold Atomic Physics <br /> Lewiston, ME <br />June-August 2016 </div>
+</div>
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
+    <div style="margin-left: 300px;"> <b>DAAD RISE Summer Researcher</b> <br />Physikalisches Institut Heidelberg, Ultracold Quantum Gases Group <br /> Heidelberg, Germany <br />June-August 2015 </div>
 </div>
