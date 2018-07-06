@@ -3,10 +3,17 @@ layout: page
 title: Education
 ---
 
-<img src="/img/columbia_uni.png"  width="130" height="130"> M.S. in Applied Mathematics (expected December 2018)
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 30%; float: left;"> <img src="/img/columbia_campus.png" width="280" height="140"> </div>
+    <div style="margin-left: 270px;"> <b>Columbia University </b> <br /> <i>Master of Science</i><br /> Applied Mathematics <br />December 2018 (expected) </div>
+</div>
 
+<p> </p>
 
-<img src="/img/bates_uni.png"  width="130" height="130"> B.S. summa cum laude in Physics and Mathematics (May 2017)
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 30%; float: left;"> <img src="/img/bates_campus.png" width="280" height="140"> </div>
+    <div style="margin-left: 270px;"> <b>Bates College </b> <br /> <i>Bachelor of Science, summa cum laude</i> <br /> Physics, Mathematics <br /> May 2017 </div>
+</div>
 
 ___
 
