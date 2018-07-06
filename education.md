@@ -2,13 +2,14 @@
 layout: page
 title: Education
 ---
+h1 { font-size: 250%; }
 
 <p> </p>
 
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 40%; float: left;"> <img src="/img/columbia_campus.jpg" width="320" height="160"> </div>
-    <div style="margin-left: 340px;"> ####Columbia University  <br /> <i>Master of Science</i><br /> Applied Mathematics <br />December 2018 (expected) </div>
+    <div style="margin-left: 340px;"> <h1> this </h1> <b>Columbia University</b>  <br /> <i>Master of Science</i><br /> Applied Mathematics <br />December 2018 (expected) </div>
 </div>
 
 <p> </p>
