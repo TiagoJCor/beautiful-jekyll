@@ -12,7 +12,7 @@ ___
 
 ### Summer Programs
 
-<br /> <br />
+<p> </p>
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
@@ -29,5 +29,5 @@ ___
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
-    <div style="width: 70%; float: right;"> <b>Physikalisches Institut Heidelberg</b> <br /><i>DAAD RISE Summer Researcher</i>, Ultracold Quantum Gases Group <br /> Heidelberg, Germany <br />June-August 2015 </div>
+    <div style="width: 60%; float: right;"> <b>Physikalisches Institut Heidelberg</b> <br /><i>DAAD RISE Summer Researcher</i>, Ultracold Quantum Gases Group <br /> Heidelberg, Germany <br />June-August 2015 </div>
 </div>
