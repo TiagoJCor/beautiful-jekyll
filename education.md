@@ -4,14 +4,14 @@ title: Education
 ---
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 30%; float: left;"> <img src="/img/columbia_campus.png" width="280" height="140"> </div>
+    <div style="width: 30%; float: left;"> <img src="/img/columbia_campus.jpg" width="280" height="140"> </div>
     <div style="margin-left: 270px;"> <b>Columbia University </b> <br /> <i>Master of Science</i><br /> Applied Mathematics <br />December 2018 (expected) </div>
 </div>
 
 <p> </p>
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 30%; float: left;"> <img src="/img/bates_campus.png" width="280" height="140"> </div>
+    <div style="width: 30%; float: left;"> <img src="/img/bates_campus.jpg" width="280" height="140"> </div>
     <div style="margin-left: 270px;"> <b>Bates College </b> <br /> <i>Bachelor of Science, summa cum laude</i> <br /> Physics, Mathematics <br /> May 2017 </div>
 </div>
 
