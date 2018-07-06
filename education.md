@@ -3,6 +3,9 @@ layout: page
 title: Education
 ---
 
+<p> </p>
+
+
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 40%; float: left;"> <img src="/img/columbia_campus.jpg" width="280" height="140"> </div>
     <div style="margin-left: 310px;"> <b>Columbia University </b> <br /> <i>Master of Science</i><br /> Applied Mathematics <br />December 2018 (expected) </div>
