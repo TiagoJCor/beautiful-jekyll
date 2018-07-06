@@ -21,7 +21,7 @@ ___
 
 1
 
-<p style="width: 500px;">
+<p style="width: 900px;">
 <img src="/img/heidelberg_uni.png" width="240" height="120" style="float: left;" />
 DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015)
 </p> 
