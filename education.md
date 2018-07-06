@@ -18,6 +18,7 @@ title: Education
     <div style="margin-left: 340px;"> <h3>Bates College </h3> <br /> <i>Bachelor of Science, summa cum laude</i> <br /> Physics, Mathematics <br /> May 2017 </div>
 </div>
 
+<p> </p>
 ___
 
 ### Summer Programs
