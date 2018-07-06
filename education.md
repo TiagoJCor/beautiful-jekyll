@@ -15,3 +15,11 @@ ___
 <img src="/img/bates_uni.png"  width="130" height="130"> Sherman Fairchild Fellow @ Lundblad Lab for Ultracold Atomic Physics, Bates College (June-August 2015)
 
 <img src="/img/heidelberg_uni.png"  width="240" height="120"> DAAD RISE Summer Intern @ Ultracold Quantum Gases Group, Physikalisches Institut Heidelberg (June-August 2015)
+
+
+___ 
+
+<p style="width: width="130" height="130">
+<img src="/img/heidelberg_uni.png" style="float: left;" />
+This is some text
+</p> 
