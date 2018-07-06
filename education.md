@@ -5,6 +5,7 @@ title: Education
 
 <img src="/img/columbia_uni.png"  width="130" height="130"> M.S. in Applied Mathematics (expected December 2018)
 
+
 <img src="/img/bates_uni.png"  width="130" height="130"> B.S. summa cum laude in Physics and Mathematics (May 2017)
 
 ___
