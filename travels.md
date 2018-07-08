@@ -8,7 +8,7 @@ title: Travels
 <style>
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 0px;
     float: left;
     width: 180px;
 }
