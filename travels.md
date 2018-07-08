@@ -35,11 +35,9 @@ div.desc {
     <img src="/img/bates_campus.jpg" alt="Tokyo, Japan" width="450" height="300" align="left">
   </a>
   <div class="desc">Tokyo, Japan</div>
-</div>
 
-<div class="gallery">
   <a target="_blank" href="/img/columbia_campus.jpg">
-    <img src="/img/columbia_campus.jpg" alt="Tokyo, Japan" width="450" height="300" align="right">
+    <img src="/img/columbia_campus.jpg" alt="Tokyo, Japan" width="450" height="300" align="right" >
   </a>
   <div class="desc">Kyoto, Japan</div>
 </div>
