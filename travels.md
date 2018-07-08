@@ -83,6 +83,7 @@ DIVIDER
   background-color: #008CBA;
 }
 
+
 .container:hover .overlay {
   opacity: 1;
 }
@@ -108,8 +109,9 @@ DIVIDER
             <div class="overlay">
            <div class="text">Hello World1</div>
            </div>
-      </div>
-  </div>
+         </div>
+       </div>
+    </div>
   <div class="column">
       <div class="container">
            <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
