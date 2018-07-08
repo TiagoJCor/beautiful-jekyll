@@ -10,7 +10,7 @@ div.gallery {
     margin: 5px;
     border: 0px;
     float: center;
-    width: 90%;
+    width: 50%;
 }
 
 div.gallery:hover {
