@@ -14,7 +14,7 @@ div.gallery {
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 1px solid #CAEBF2;
 }
 
 div.gallery img {
@@ -32,16 +32,16 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="/img/bates_campus.jpg">
-    <img src="/img/bates_campus.jpg" alt="Cinque Terre" width="300" height="200">
+    <img src="/img/bates_campus.jpg" alt="Cinque Terre" width="450" height="300">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Tokyo, Japan</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="forest.jpg">
     <img src="/img/bates_campus.jpg" alt="Forest" width="300" height="200">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Kyoto, Japan</div>
 </div>
 
 
