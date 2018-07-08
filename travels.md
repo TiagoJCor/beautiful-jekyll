@@ -106,20 +106,23 @@ DIVIDER
   <div class="column">
       <div class="container">
            <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
-            <div class="overlay">
-           <div class="text">Hello World1</div>
+              <div class="overlay">
+                <div class="text">Hello World1</div>
+              </div>
            </div>
-         </div>
        </div>
-    </div>
+  </div>
   <div class="column">
       <div class="container">
-           <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
-            <div class="overlay">
-           <div class="text">Hello World2</div>
+           <img src="/img/columbia_campus.jpg" alt="Snow2" style="width:100%">
+              <div class="overlay">
+                <div class="text">Hello World2</div>
+              </div>
            </div>
-      </div>
+       </div>
   </div>
+  
+  
 </div>
 
 </body>
