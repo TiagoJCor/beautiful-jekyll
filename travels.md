@@ -48,7 +48,7 @@ div.desc {
 </body>
 </html>
 
-
+DIVIDER
 
 <html>
 <head>
@@ -83,7 +83,7 @@ div.desc {
   background-color: #008CBA;
 }
 
-.column:hover .overlay {
+.container:hover .overlay {
   opacity: 1;
 }
 
@@ -103,15 +103,20 @@ div.desc {
 
 <div class="row">
   <div class="column">
-    <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
-    <div class="overlay">
-    <div class="text">Hello World1</div>
+      <div class="container">
+           <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
+            <div class="overlay">
+           <div class="text">Hello World1</div>
+           </div>
+      </div>
   </div>
   <div class="column">
-    <img src="/img/columbia_campus.jpg" alt="Forest" style="width:100%">
-    <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
-    <div class="overlay">
-    <div class="text">Hello World2</div>
+      <div class="container">
+           <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
+            <div class="overlay">
+           <div class="text">Hello World1</div>
+           </div>
+      </div>
   </div>
 </div>
 
