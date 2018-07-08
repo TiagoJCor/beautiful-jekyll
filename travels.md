@@ -70,10 +70,6 @@ DIVIDER
     display: table;
 }
 
-.container { 
-  width: 50%
-}
-
 .overlay {
   position: absolute;
   top: 0;
