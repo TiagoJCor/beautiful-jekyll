@@ -88,7 +88,7 @@ DIVIDER
 }
 
 
-.container:hover .overlay {
+.column:hover .overlay {
   opacity: 1;
 }
 
@@ -108,21 +108,17 @@ DIVIDER
 
 <div class="row">
   <div class="column">
-      <div class="container">
            <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
               <div class="overlay">
                 <div class="text">Hello World1</div>
               </div>
            </div>
-       </div>
   </div>
   <div class="column">
-      <div class="container">
            <img src="/img/columbia_campus.jpg" alt="Snow2" style="width:100%">
               <div class="overlay">
                 <div class="text">Hello World2</div>
               </div>
-           </div>
        </div>
   </div>
   
