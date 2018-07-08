@@ -69,6 +69,34 @@ div.desc {
     clear: both;
     display: table;
 }
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.column:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
 </style>
 </head>
 <body>
@@ -76,9 +104,15 @@ div.desc {
 <div class="row">
   <div class="column">
     <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
+    <div class="overlay">
+    <div class="text">Hello World1</div>
+  </div>
   </div>
   <div class="column">
     <img src="/img/columbia_campus.jpg" alt="Forest" style="width:100%">
+    <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
+    <div class="overlay">
+    <div class="text">Hello World2</div>
   </div>
 </div>
 
