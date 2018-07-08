@@ -9,8 +9,8 @@ title: Travels
 div.gallery {
     margin: 5px;
     border: 0px;
-    float: left;
-    width: 300px;
+    float: center;
+    width: 90%;
 }
 
 div.gallery:hover {
@@ -18,7 +18,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 
