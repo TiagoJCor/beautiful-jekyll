@@ -107,7 +107,6 @@ div.desc {
     <div class="overlay">
     <div class="text">Hello World1</div>
   </div>
-  </div>
   <div class="column">
     <img src="/img/columbia_campus.jpg" alt="Forest" style="width:100%">
     <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
