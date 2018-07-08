@@ -114,7 +114,7 @@ DIVIDER
       <div class="container">
            <img src="/img/columbia_campus.jpg" alt="Snow" style="width:100%">
             <div class="overlay">
-           <div class="text">Hello World1</div>
+           <div class="text">Hello World2</div>
            </div>
       </div>
   </div>
