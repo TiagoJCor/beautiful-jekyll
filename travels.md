@@ -32,14 +32,14 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="/img/bates_campus.jpg">
-    <img src="/img/bates_campus.jpg" alt="Cinque Terre" width="450" height="300">
+    <img src="/img/bates_campus.jpg" alt="Tokyo, Japan" width="450" height="300">
   </a>
   <div class="desc">Tokyo, Japan</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="forest.jpg">
-    <img src="/img/bates_campus.jpg" alt="Forest" width="300" height="200">
+  <a target="_blank" href="/img/columbia_campus.jpg">
+    <img src="/img/columbia_campus.jpg" alt="Tokyo, Japan" width="450" height="300">
   </a>
   <div class="desc">Kyoto, Japan</div>
 </div>
