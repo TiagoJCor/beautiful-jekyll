@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+page-img: "/img/water1.JPG"
 ---
 
 
