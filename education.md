@@ -31,12 +31,12 @@ ___
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 30%; float: left;"> <img src="/img/bates_logo.png" width="240" height="120"> </div>
-    <div style="margin-left: 30%;"> <b>Bates College </b> <br /> <i>Sherman Fairchild Fellow</i>, Lundblad Lab for Ultracold Atomic Physics <br /> Lewiston, ME <br />June-August 2016 </div>
+    <div style="margin-left: 35%;"> <b>Bates College </b> <br /> <i>Sherman Fairchild Fellow</i>, Lundblad Lab for Ultracold Atomic Physics <br /> Lewiston, ME <br />June-August 2016 </div>
 </div>
 
 <p> </p>
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 30%; float: left;"> <img src="/img/heidelberg_uni.png" width="240" height="120"> </div>
-    <div style="margin-left: 25%;"> <b>Physikalisches Institut Heidelberg</b> <br /><i>DAAD RISE Summer Researcher</i>, Ultracold Quantum Gases Group <br /> Heidelberg, Germany <br />June-August 2015 </div>
+    <div style="margin-left: 35%;"> <b>Physikalisches Institut Heidelberg</b> <br /><i>DAAD RISE Summer Researcher</i>, Ultracold Quantum Gases Group <br /> Heidelberg, Germany <br />June-August 2015 </div>
 </div>
