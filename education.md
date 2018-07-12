@@ -5,6 +5,17 @@ title: Education
 
 <p> </p>
 
+<img style="float: right;" src="/img/columbia_campus.jpg" width="320" height="160">
+
+Does this also work?
+
+<p> </p>
+
+<img style="float: right;" src="/img/columbia_campus.jpg" width="320" height="160">
+
+How about this?
+
+<p> </p>
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 40%; float: left;"> <img src="/img/columbia_campus.jpg" width="320" height="160"> </div>
