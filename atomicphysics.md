@@ -14,6 +14,6 @@ This line of research was furthered through my year-long senior thesis titled "M
 ### Single-Atom Imaging
 #### (2015)
 
-My first real foray into research came in the form of a RISE DAAD (the German 
+My first real foray into research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group") of 
 
 Useful links:
