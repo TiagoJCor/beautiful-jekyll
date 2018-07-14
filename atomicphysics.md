@@ -29,5 +29,5 @@ I furthered this line of research through my year-long senior thesis titled "Mea
 
 My first real foray into research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group Homepage") of 
 
-I presented a [poster](/img/heid_poster.pdf "PDF of poster")
+I presented a [poster](/img/heidelbergphys/heid_poster.pdf "PDF of poster")
 
