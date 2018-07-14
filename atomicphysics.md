@@ -7,7 +7,7 @@ title: Atomic Physics
 #### (2014-2017)
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 45%; margin-left: 5%; float: left;"> <img src="/img/atomicphys/lundbladBEC.png" width="250" height="190"> This is a caption </div>
+    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/atomicphys/lundbladBEC.png" width="250" height="190"> <figcaption>Tree frog by David Clode on Unsplash</figcaption> </figure>  </div>
     <div style="width: 45%; margin-right: 5%; float: right;"> <img src="/img/atomicphys/lundbladgraph.png" width="300" height="190"> This is another caption </div>
 </div>
 
