@@ -27,7 +27,7 @@ I furthered this line of research through my year-long senior thesis titled "Mea
     <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/heidelbergphys/heidelbergcloud.png" width="310" height="210"> <figcaption><font size="3">Superimposing two dipole traps for ultracold atoms.</font></figcaption> </figure></div>
 </div>
 
-My first real foray into research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group Homepage") of 
+My first foray into academic research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") summer internship at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group Homepage") of the Physikalisches Institut Heidelberg (part of the Heidelberg University, Germany). I worked on implementing a new imaging scheme that allowed for the measurement of low-digit atom numbers in adjacent ultracold atomic clouds with the use of a high-precision camera.
 
-I presented a [poster](/img/heidelbergphys/heid_poster.pdf "PDF of poster")
+I presented a [poster](/img/heidelbergphys/heid_poster.pdf "PDF of poster") on this work at the 2015 [APS/DLS Symposium on Undergraduate Research](https://www.aps.org/units/dls/meetings/symposium/index.cfm "Symposium on Undergraduate Research"), as part of the annual OSA conference being held in San Jose, CA. 
 
