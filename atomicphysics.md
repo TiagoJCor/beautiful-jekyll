@@ -7,8 +7,8 @@ title: Atomic Physics
 #### (2014-2017)
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 45%; margin-left: 5%; float: left;"> <img src="/img/atomicphys/lundbladBEC.png" width="250" height="190"> </div>
-    <div style="width: 45%; margin-right: 5%; float: right;"> <img src="/img/atomicphys/lundbladgraph.png" width="300" height="190"> </div>
+    <div style="width: 45%; margin-left: 5%; float: left;"> <img src="/img/atomicphys/lundbladBEC.png" width="250" height="190"> This is a caption </div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <img src="/img/atomicphys/lundbladgraph.png" width="300" height="190"> This is another caption </div>
 </div>
 
 During my three-year tenure as a student researcher in Nathan Lundblad's [laboratory for ultracold atomic physics](https://abacus.bates.edu/~nlundbla/ "Lundblad Lab Homepage") I gained hands-on experience with all stages of BEC production. This specific project was developed during my summer as a Sherman Fairchild Fellow in the lab, when I studied and implemented a crossed-beam dipole trap for rubidium BECs. I presented this work at the 2016 [APS/DLS Symposium on Undergraduate Research](https://www.aps.org/units/dls/meetings/symposium/index.cfm "Symposium on Undergraduate Research"), as part of the annual OSA conference being held in Rochester, NY. 
