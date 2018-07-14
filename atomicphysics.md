@@ -7,7 +7,7 @@ title: Atomic Physics
 #### (2014-2017)
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 50%; float: left;"> <img src="/img/atomicphys/lundbladBEC.png" width="280" height="190"> </div>
+    <div style="width: 50%; float: left;"> <img src="/img/atomicphys/lundbladBEC.png" width="250" height="190"> </div>
     <div style="width: 50%; float: right;"> <img src="/img/atomicphys/lundbladgraph.png" width="320" height="190"> </div>
 </div>
 
