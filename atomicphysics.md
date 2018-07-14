@@ -23,8 +23,8 @@ I furthered this line of research through my year-long senior thesis titled "Mea
 <p> </p>
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/heidelbergphys/heidelbergscheme.png" width="250" height="210"> <figcaption><font size="3">Schematics of the implemented optical instruments.</font></figcaption> </figure>  </div>
-    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/heidelbergphys/heidelbergcloud.png" width="300" height="210"> <figcaption><font size="3">Superimposing two dipole traps for ultracold atoms.</font></figcaption> </figure></div>
+    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/heidelbergphys/heidelbergscheme.png" width="270" height="210"> <figcaption><font size="3">Schematics of the implemented optical instruments.</font></figcaption> </figure>  </div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/heidelbergphys/heidelbergcloud.png" width="310" height="210"> <figcaption><font size="3">Superimposing two dipole traps for ultracold atoms.</font></figcaption> </figure></div>
 </div>
 
 My first real foray into research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group Homepage") of 
