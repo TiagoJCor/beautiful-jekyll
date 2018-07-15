@@ -17,4 +17,4 @@ I am member of the Society for Industrial and Applied Mathematics ([SIAM](https:
 
 ### Beyond academia
 
-On a daily basis my hobbies include reading, swimming, and discussing the intricacies (or lack therof) of Portuguese soccer to anyone who cares to indulge me. I have been lucky to **travel** to more than a few interesting places around the world, mostly driven by the desire to try new foods.
+On a daily basis my hobbies include reading, swimming, and discussing the intricacies (or lack therof) of Portuguese **soccer** to anyone who cares to indulge me. I have been lucky to **travel** to more than a few interesting places around the world, mostly driven by the desire to try new foods.
