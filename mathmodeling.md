@@ -14,4 +14,4 @@ title: Mathematical Modeling
 </div>
 
 
-<embed src="img/sim_ising.avi"/>
+[video](https://drive.google.com/open?id=1PCurBmP5v0ob1E0UodKkJlWlzoWzD15q "Video of 2D Ising Model simulation")
