@@ -12,3 +12,6 @@ title: Mathematical Modeling
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/isingmodel/isingenergy.png" width="290" height="200"> <figcaption><font size="3">caption1</font></figcaption> </figure>  </div>
     <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/isingmodel/isingmagn.png" width="300" height="200"> <figcaption><font size="3">caption2</font></figcaption> </figure></div>
 </div>
+
+
+<embed src="img/sim_ising.avi"/>
