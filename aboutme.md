@@ -11,7 +11,7 @@ Towards the end of the summer of 2017 I moved to New York City to enroll in **Co
 
 ### Research interests
 
-Currently I am interested in the study and application of **optimization, machine learning and numerical methods**, and more generally in **mathematical modeling** as a means to solve practical problems. I have further research experience in **experimental atomic physics** and retain a great deal of curiosity on topics in the realms of quantum mechanics, quantum computing and ultracold physics. 
+Currently I am interested in the study and application of **optimization, machine learning and numerical methods**, and more generally in **mathematical modeling** as a means to solve practical problems. I have research experience in **experimental atomic physics** and retain a great deal of curiosity on topics in the realms of quantum mechanics, quantum computing and ultracold physics. 
 
 I am member of the Society for Industrial and Applied Mathematics ([SIAM](https://www.siam.org/ "SIAM webpage")) and was a member of the American Physical Society ([APS](https://www.aps.org/ "APS webpage")) between 2015 and 2017.
 
