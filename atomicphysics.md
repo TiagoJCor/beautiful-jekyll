@@ -24,7 +24,7 @@ I furthered this line of research through my year-long senior thesis titled "Mea
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/heidelbergphys/heidelbergscheme.png" width="270" height="210"> <figcaption><font size="3">Schematics of the implemented optical instruments.</font></figcaption> </figure>  </div>
-    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/heidelbergphys/heidelbergcloud.png" width="310" height="210"> <figcaption><font size="3">Superimposing two dipole traps for ultracold atoms.</font></figcaption> </figure></div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/heidelbergphys/heidelbergcloud.png" width="310" height="210"> <figcaption><font size="3">Increasing the density of an atomic cloud by superimposing two traps.</font></figcaption> </figure></div>
 </div>
 
 My first foray into academic research came in the form of a [RISE DAAD](https://www.daad.de/rise/en/ "DAAD RISE Homepage") summer internship at the [Ultracold Quantum Gases Group](http://ultracold.physi.uni-heidelberg.de/ "Ultracold Quantum Gases Group Homepage") of the Physikalisches Institut Heidelberg (part of the Heidelberg University, Germany). I worked on implementing a new imaging scheme that allowed for the measurement of low-digit atom numbers in ultracold atomic clouds with the use of a high-precision camera.
