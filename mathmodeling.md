@@ -15,7 +15,7 @@ The state of each particle in the lattice is initialized randomly. In any given 
 For very low temperatures, the spins will all rapidly align themselves with those of their neighbors,
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/isingmodel/isingbefore.png" width="300" height="200"> <figcaption><font size="3">Two-dimensional lattices are initialized at random. Black dots represent *down* spins, red crosses *up* spins.</font></figcaption> </figure>  </div>
+    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/isingmodel/isingbefore.png" width="300" height="200"> <figcaption><font size="3">Two-dimensional lattices are initialized at random. Black dots represent <i>down</i> spins, red crosses <i>up</i> spins.</font></figcaption> </figure>  </div>
     <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/isingmodel/isingafter.png" width="300" height="200"> <figcaption><font size="3">caption2</font></figcaption> </figure></div>
 </div>
 
