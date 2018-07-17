@@ -10,7 +10,9 @@ title: Mathematical Modeling
 
 As part of a class on Monte Carlo methods at Bates College, I simulated the behavior of a two-dimensional **Ising model** - a mathematical description of ferromagnets - using the **Metropolis-Hastings** algorithm. This model depicts a lattice of up/down spin particles whose natural tendency is to align themselves with their neighbors, thus lowering the overall energy of the system. The key insight here is identifying the temperature at which a phase transition occurs.
 
-The state of each particle in the lattice is initialized randomly. In any given iteration of the algorithm, a random particle is chosen. If flipping its spin produces a lower energy (*e.g.* a spin down particle surrounded by spin up particles), the spin flip is accepted. Otherwise, the probability of this particle maintaining its current state is proportional to the hypothetical energy increase, and inversely proportional to the background temperature. 
+The state of each particle in the lattice is initialized randomly. In any given iteration of the algorithm, a random particle is chosen. If flipping its spin produces a lower energy (*e.g.* a spin down particle surrounded by spin up particles), the spin flip is accepted. Otherwise, the **probability** of this particle maintaining its current state is proportional to the hypothetical energy increase, and inversely proportional to the background **temperature**. 
+
+[Video of 100-by-100 lattice simulation](https://drive.google.com/open?id=1PCurBmP5v0ob1E0UodKkJlWlzoWzD15q "Video of 2D Ising Model simulation")
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/isingmodel/isingbefore.png" width="300" height="200"> <figcaption><font size="3">Two-dimensional lattices are initialized at random. Black dots represent <i>down</i> spins, red crosses <i>up</i> spins.</font></figcaption> </figure>  </div>
@@ -21,9 +23,6 @@ For very low temperatures, the spins will all rapidly align themselves with thos
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/isingmodel/isingenergy.png" width="290" height="200"> <figcaption><font size="3">System energy at the end of each simulation. Colder temperatures lead to more ordered systems with lower energy.</font></figcaption> </figure>  </div>
-    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/isingmodel/isingmagn.png" width="300" height="200"> <figcaption><font size="3">Average magnetization of the system (+1 for up spin, -1 for down spin). As the temperature decreases, most simulations end with either all up or all down spins.</font></figcaption> </figure></div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/isingmodel/isingmagn.png" width="300" height="200"> <figcaption><font size="3">Average magnetization of the system (+1 for <i>up</i> spin, -1 for <i>down</i> spin). As the temperature decreases, most simulations end with either all <i>up</i> or all <i>down</i> spins.</font></figcaption> </figure></div>
 </div>
-
-[animation](https://drive.google.com/open?id=1PCurBmP5v0ob1E0UodKkJlWlzoWzD15q "Video of 2D Ising Model simulation")
-
 
