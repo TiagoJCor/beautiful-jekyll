@@ -6,6 +6,14 @@ title: Mathematical Modeling
 ### The KdV equation: finite difference methods for nonlinear PDEs
 #### (2018)
 
+[Jupyter Notebook](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb)
+
+[single soliton](https://drive.google.com/file/d/1FZuBoY9WnwVYD6kC2p0drA1o4exNobN-/view?usp=sharing)
+
+[double soliton](https://drive.google.com/open?id=1NGMIAR_1-p6ydgFwgCZ2gWCRSyBRf03q)
+
+[soliton plus a cosine wave](https://drive.google.com/open?id=1G1bRAdLtqmr8X_CXkWoM5FxkfRUxoXxC)
+
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="310" height="210"> <figcaption><font size="3">Caption1</font></figcaption> </figure>  </div>
