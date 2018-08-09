@@ -3,6 +3,16 @@ layout: page
 title: Mathematical Modeling
 ---
 
+### The KdV equation: finite difference methods for nonlinear PDEs
+#### (2018)
+
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="300" height="200"> <figcaption><font size="3">Caption1</font></figcaption> </figure>  </div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/kdveq/kdvsolitons2.png" width="300" height="200"> <figcaption><font size="3">Caption2</font></figcaption> </figure></div>
+</div>
+
+
 ### Ising model: studying phase transitions with Monte Carlo methods
 #### (2016)
 
