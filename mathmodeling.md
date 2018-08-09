@@ -8,13 +8,11 @@ title: Mathematical Modeling
 
 <p> </p>
 
-As part of a class on Monte Carlo methods at Bates College, I simulated the behavior of a two-dimensional **Ising model** - a mathematical description of ferromagnets - using the **Metropolis-Hastings** algorithm. This model depicts a lattice of up/down spin particles whose natural tendency is to align themselves with their neighbors, thus lowering the overall energy of the system. The key insight here is identifying the temperature at which a phase transition occurs.
+As part of a class on Monte Carlo (MC) methods at Bates College, I simulated the behavior of a two-dimensional **Ising model** - a mathematical description of ferromagnets - using the **Metropolis-Hastings** algorithm. This model depicts a lattice of up/down spin particles whose natural tendency is to align themselves with their neighbors, thus lowering the overall energy of the system. An MC simulation allows us to identify the temperature at which a phase transition occurs, which would otherwise be a difficult analytical problem.
 
-The state of each particle in the lattice is initialized randomly. In any given iteration of the algorithm, a random particle is chosen. If flipping its spin produces a lower energy (*e.g.* a spin down particle surrounded by spin up particles), the spin flip is accepted. Otherwise, the **probability** of this particle maintaining its current state is proportional to the hypothetical energy increase, and inversely proportional to the background **temperature**. 
+We proceeded in the following way: first, the state of each particle in the lattice is initialized randomly. In any given iteration of the algorithm, a random particle is chosen. If inversing its spin produces a lower energy (*e.g.* a spin down particle surrounded by spin up particles), the spin flip is accepted. Otherwise, we essentially flip a biased coin to determine whether the system is altered. The degree to which the proposed change is favored is proportional to the the background **temperature** (hotter systems are more susceptible to random fluctuatios) and inversely proportional to the hypothetical energy increase.
 
-[Video of 100-by-100 lattice simulation.](https://drive.google.com/open?id=1PCurBmP5v0ob1E0UodKkJlWlzoWzD15q "Video of 2D Ising Model simulation")
-
-[Code on GitHub.](https://github.com/TiagoJCor/Monte-Carlo-Simulations)
+As an example, check out a [video](https://drive.google.com/open?id=1PCurBmP5v0ob1E0UodKkJlWlzoWzD15q "Video of 2D Ising Model simulation")  of 100-by-100 lattice simulation. You can also find the code on my [GitHub](https://github.com/TiagoJCor/Monte-Carlo-Simulations) page.
 
 
 <div style="width: 100%; overflow: hidden;">
