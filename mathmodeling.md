@@ -6,11 +6,9 @@ title: Mathematical Modeling
 ### The KdV equation: finite difference methods for nonlinear PDEs
 #### (2018)
 
-The Korteweg-de Vries equation
+The Korteweg-de Vries equation is the poster child for solvable non-linear PDEs. It models the behavior of shallow-water waves [first observed]("http://www.macs.hw.ac.uk/~chris/scott_russell.html") by John Russel in the mid-19th century, in which any given initial condition devolves into collections of solitons - solitary waves traveling at constant speed. 
 
-$u_t - 6 u u_{x} + u_{xxx} = 0$
-
-[Jupyter Notebook](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb)
+As part of the final project for my Numerical Methods for PDEs course at Columbia University, I implemented several finite difference methods for solving the KdV equation and compared their convergence and stability properties (you can find part of the analysis [this](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb) Jupyter Notebook).
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="310" height="210"> <figcaption><font size="3">Caption1</font></figcaption> </figure>  </div>
