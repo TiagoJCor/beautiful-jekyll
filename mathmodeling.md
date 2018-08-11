@@ -8,17 +8,18 @@ title: Mathematical Modeling
 
 [Jupyter Notebook](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb)
 
-[single soliton](https://drive.google.com/file/d/1FZuBoY9WnwVYD6kC2p0drA1o4exNobN-/view?usp=sharing)
-
-[double soliton](https://drive.google.com/open?id=1NGMIAR_1-p6ydgFwgCZ2gWCRSyBRf03q)
-
-[soliton plus a cosine wave](https://drive.google.com/open?id=1G1bRAdLtqmr8X_CXkWoM5FxkfRUxoXxC)
-
-
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="310" height="210"> <figcaption><font size="3">Caption1</font></figcaption> </figure>  </div>
     <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/kdveq/kdvsolitons2.png" width="310" height="210"> <figcaption><font size="3">Caption2</font></figcaption> </figure></div>
 </div>
+
+Finite difference methods are easy to understand and implement, but are often superseeded in efficiency by other (faster) approaches. For the KdV equation with periodic boundary conditions one can take advantage of the Fast Fourier Transform to compute the spatial derivatives. This version of a **spectral method** boasts higher convergence properties are produces more stable simulations. Below are a series of videos of the time-dependent solution to the KdV equation, given different initial conditions:
+
+* [Single soliton](https://drive.google.com/file/d/1FZuBoY9WnwVYD6kC2p0drA1o4exNobN-/view?usp=sharing);
+
+[Two solitons](https://drive.google.com/open?id=1NGMIAR_1-p6ydgFwgCZ2gWCRSyBRf03q) traveling at different speeds;
+
+[Single soliton plus cosine wave](https://drive.google.com/open?id=1G1bRAdLtqmr8X_CXkWoM5FxkfRUxoXxC), quickly devolving into a train of solitons traveling at different speeds.
 
 
 ### Ising model: studying phase transitions with Monte Carlo methods
