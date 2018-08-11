@@ -17,7 +17,7 @@ Below are heatmap representations of numerical solutions to the KdV equation wit
     <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="310" height="210"> <figcaption><font size="3">Initial condition: single soliton with a background lower-amplitude cosine wave.</font></figcaption> </figure></div>
 </div>
 
-Finite difference methods are easy to understand and implement, but are often superseeded in efficiency by other (faster) approaches. For the KdV equation with periodic boundary conditions one can take advantage of the Fast Fourier Transform to compute the spatial derivatives. This version of a **spectral method** boasts higher convergence properties are produces more stable simulations. Below are a series of videos of the time-dependent solution to the KdV equation, given different initial conditions:
+Finite difference methods are easy to understand and implement, but are often superseeded in efficiency by other (faster) approaches. For the KdV equation with periodic boundary conditions one can take advantage of the Fast Fourier Transform to compute the spatial derivatives. This version of a **spectral method** boasts higher convergence properties are produces more stable simulations, **e.g.** (for different initial conditions):
 
 * [Single soliton](https://drive.google.com/file/d/1FZuBoY9WnwVYD6kC2p0drA1o4exNobN-/view?usp=sharing);
 
