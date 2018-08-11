@@ -6,6 +6,10 @@ title: Mathematical Modeling
 ### The KdV equation: finite difference methods for nonlinear PDEs
 #### (2018)
 
+The Korteweg-de Vries equation
+
+$$u_t - 6 u u_{x} + u_{xxx} = 0$$
+
 [Jupyter Notebook](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb)
 
 <div style="width: 100%; overflow: hidden;">
@@ -17,9 +21,9 @@ Finite difference methods are easy to understand and implement, but are often su
 
 * [Single soliton](https://drive.google.com/file/d/1FZuBoY9WnwVYD6kC2p0drA1o4exNobN-/view?usp=sharing);
 
-[Two solitons](https://drive.google.com/open?id=1NGMIAR_1-p6ydgFwgCZ2gWCRSyBRf03q) traveling at different speeds;
+* [Two solitons](https://drive.google.com/open?id=1NGMIAR_1-p6ydgFwgCZ2gWCRSyBRf03q) traveling at different speeds;
 
-[Single soliton plus cosine wave](https://drive.google.com/open?id=1G1bRAdLtqmr8X_CXkWoM5FxkfRUxoXxC), quickly devolving into a train of solitons traveling at different speeds.
+* [Single soliton plus cosine wave](https://drive.google.com/open?id=1G1bRAdLtqmr8X_CXkWoM5FxkfRUxoXxC), quickly devolving into a train of solitons traveling at different speeds.
 
 
 ### Ising model: studying phase transitions with Monte Carlo methods
