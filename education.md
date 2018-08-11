@@ -15,6 +15,13 @@ title: Education
     <div style="margin-left: 45%;"> <h3>Bates College </h3> <br /> <i>Bachelor of Science, summa cum laude</i> <br /> Physics, Mathematics <br /> May 2017 </div>
 </div>
 
+Honor societies: Phi Beta Kappa, Sigma Xi
+
+Other awards:
+
+* bla
+* ble
+
 <p> </p>
 ___
 
