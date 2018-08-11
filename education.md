@@ -16,9 +16,7 @@ title: Education
 </div>
 
 Honor societies: Phi Beta Kappa, Sigma Xi
-
 Other awards:
-
 * bla
 * ble
 
