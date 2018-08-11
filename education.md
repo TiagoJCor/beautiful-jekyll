@@ -15,9 +15,9 @@ title: Education
     <div style="margin-left: 45%;"> <h3>Bates College </h3> <br /> <i>Bachelor of Science, summa cum laude</i> <br /> Physics, Mathematics <br /> May 2017 </div>
 </div>
 
-Honor societies: Phi Beta Kappa, Sigma Xi
+**Honor societies**: Phi Beta Kappa, Sigma Xi
 
-Awards:
+**Awards**:
 * Judith Magyar Isaacson '65 Prize: for demonstrated high academic achievement in digital and computational studies or mathematics
 * Percy D. Wilkins Mathematics Award: awarded to the senior majoring in mathematics who has achieved the highest rank in studies undertaken in mathematics
 * Physics and Astronomy Thesis Prize: for demonstrated exceptional achievement in the senior thesis
