@@ -18,11 +18,11 @@ title: Education
 **Honor societies**: Phi Beta Kappa, Sigma Xi
 
 **Awards**:
-* Judith Magyar Isaacson '65 Prize: for demonstrated high academic achievement in digital and computational studies or mathematics
-* Percy D. Wilkins Mathematics Award: awarded to the senior majoring in mathematics who has achieved the highest rank in studies undertaken in mathematics
-* Physics and Astronomy Thesis Prize: for demonstrated exceptional achievement in the senior thesis
-* Bates College Department of Physics and Astronomy Distinguished Junior Prize: awarded to the rising senior with the highest GPA in physics courses.
-* Dana Scholar: highest honor bestowed on a first-year student. Recipients are chosen on the basis of their academic excellence and promise, leadership potential, and service to the College.
+* *Judith Magyar Isaacson '65 Prize*: for demonstrated high academic achievement in digital and computational studies or mathematics
+* *Percy D. Wilkins Mathematics Award*: awarded to the senior majoring in mathematics who has achieved the highest rank in studies undertaken in mathematics
+* *Physics and Astronomy Thesis Prize*: for demonstrated exceptional achievement in the senior thesis
+* *Bates College Department of Physics and Astronomy Distinguished Junior Prize*: awarded to the rising senior with the highest GPA in physics courses.
+* *Dana Scholar*: highest honor bestowed on a first-year student. Recipients are chosen on the basis of their academic excellence and promise, leadership potential, and service to the College.
 <p> </p>
 ___
 
