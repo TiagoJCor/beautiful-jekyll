@@ -13,8 +13,8 @@ As part of the final project for my Numerical Methods for PDEs course at Columbi
 Below are heatmap representations of numerical solutions to the KdV equation with periodic boundary conditions, given two distinct initial conditions. Lines with positive (negative) slope represent solitons traveling to the right (left).
 
 <div style="width: 100%; overflow: hidden;">
-    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsoliton2.png" width="310" height="210"> <figcaption><font size="3">Initial condition: two solitons traveling at different speeds.</font></figcaption> </figure>  </div>
-    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/kdveq/kdvsolitons1.png" width="310" height="210"> <figcaption><font size="3">Initial condition: single soliton with a background lower-amplitude cosine wave.</font></figcaption> </figure></div>
+    <div style="width: 45%; margin-left: 5%; float: left;"> <figure><img src="/img/kdveq/kdvsolitons2.png" width="310" height="210"> <figcaption><font size="3">Initial condition: two solitons traveling at different speeds.</font></figcaption> </figure>  </div>
+    <div style="width: 45%; margin-right: 5%; float: right;"> <figure><img src="/img/kdveq/kdvsolitons.png" width="310" height="210"> <figcaption><font size="3">Initial condition: single soliton with a background lower-amplitude cosine wave.</font></figcaption> </figure></div>
 </div>
 
 Finite difference methods are easy to understand and implement, but are often superseeded in efficiency by other (faster) approaches. For the KdV equation with periodic boundary conditions one can take advantage of the Fast Fourier Transform to compute the spatial derivatives. This version of a **spectral method** boasts higher convergence properties are produces more stable simulations. Below are a series of videos of the time-dependent solution to the KdV equation, given different initial conditions:
