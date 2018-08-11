@@ -8,7 +8,7 @@ title: Mathematical Modeling
 
 The Korteweg-de Vries equation
 
-$$u_t - 6 u u_{x} + u_{xxx} = 0$$
+$u_t - 6 u u_{x} + u_{xxx} = 0$
 
 [Jupyter Notebook](https://github.com/TiagoJCor/Numerical-Methods-KDV/blob/master/numerical_KDV.ipynb)
 
