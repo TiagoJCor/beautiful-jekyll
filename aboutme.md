@@ -9,7 +9,7 @@ I grew up in Portugal near the beautiful city of Lisbon. Shortly after concludin
 
 Towards the end of the summer of 2017 I moved to New York City to enroll in **Columbia University**'s MS program in **Applied Mathematics** at the Fu Foundation School of Engineering and Applied Science. There I also worked as a teaching assistant for Numerical Methods, PDEs and Complex Analysis courses in the [APAM](http://apam.columbia.edu/ "APAM department webpage") department.
 
-Nowadays I work at Google as a software engineer. My team works on YouTube video processing and streaming.
+Nowadays I work at Google in Camridge, MA as a software engineer. My team works on YouTube video processing and streaming.
 
 ### Research interests
 
